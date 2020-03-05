@@ -1,3 +1,4 @@
+#a program to convert temperatures to and from celcius , fahrenheit.
 temp = input("Input the  temperature you like to convert? (e.g., 60C, 45F.) : ")
 degree = int(temp[:-1])
 i_convention = temp[-1]
